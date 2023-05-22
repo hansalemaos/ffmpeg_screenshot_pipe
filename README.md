@@ -1,7 +1,7 @@
 # Capture Screenshots with Unparalleled Speed and Versatile Features - GDIgrab, DDAgrab, Ctypes, Multiprocessing, GPU, Mouse Capture ...
 
 
-### pip install ffmpeg-screenshot-pipe
+### pip install ffmpeg-screenshot-pipe (ffmpeg.exe included)
 
 ## What is so special about ffmpeg-screenshot-pipe
 
